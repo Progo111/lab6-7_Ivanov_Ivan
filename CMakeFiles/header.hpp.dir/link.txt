@@ -1,0 +1,2 @@
+/usr/bin/ar qc libheader.hpp.a  CMakeFiles/header.hpp.dir/function.cpp.o
+/usr/bin/ranlib libheader.hpp.a

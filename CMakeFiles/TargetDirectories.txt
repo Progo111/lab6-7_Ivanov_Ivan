@@ -1,0 +1,9 @@
+/mnt/c/Users/79875/Desktop/c++/laba_PL#6-7/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/79875/Desktop/c++/laba_PL#6-7/CMakeFiles/edit_cache.dir
+/mnt/c/Users/79875/Desktop/c++/laba_PL#6-7/CMakeFiles/test.dir
+/mnt/c/Users/79875/Desktop/c++/laba_PL#6-7/CMakeFiles/main.dir
+/mnt/c/Users/79875/Desktop/c++/laba_PL#6-7/CMakeFiles/header.hpp.dir
+/mnt/c/Users/79875/Desktop/c++/laba_PL#6-7/googletests/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/79875/Desktop/c++/laba_PL#6-7/googletests/CMakeFiles/edit_cache.dir
+/mnt/c/Users/79875/Desktop/c++/laba_PL#6-7/googletests/CMakeFiles/test.dir
+/mnt/c/Users/79875/Desktop/c++/laba_PL#6-7/googletests/CMakeFiles/testing.dir

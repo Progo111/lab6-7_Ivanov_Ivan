@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/79875/Desktop/c++/laba_PL#6-7/function.cpp
+header.hpp
+/mnt/c/Users/79875/Desktop/c++/laba_PL#6-7/header.hpp
+
+/mnt/c/Users/79875/Desktop/c++/laba_PL#6-7/header.hpp
+iostream
+-
+string
+-
+vector
+-
+cstdlib
+-
+ctime
+-
+algorithm
+-
+fstream
+-
+cstring
+-
+
+/mnt/c/Users/79875/Desktop/c++/laba_PL#6-7/main.cpp
+header.hpp
+/mnt/c/Users/79875/Desktop/c++/laba_PL#6-7/header.hpp
+
